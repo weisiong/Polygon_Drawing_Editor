@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "howto_polygon_editor2", "howto_polygon_editor2.csproj", "{BEE890D3-2ACE-4A63-91E2-8B56DB1F3120}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEE890D3-2ACE-4A63-91E2-8B56DB1F3120}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEE890D3-2ACE-4A63-91E2-8B56DB1F3120}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEE890D3-2ACE-4A63-91E2-8B56DB1F3120}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEE890D3-2ACE-4A63-91E2-8B56DB1F3120}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {76960190-0CB5-40BF-8E0B-3E3A47D4BBBE}
+	EndGlobalSection
+EndGlobal
